@@ -2,11 +2,11 @@
 
 #Group Project ICS 499
 
--Everyone fork the MedicationTracker repo  under Username:issenur@GitHub.com
+-Step 1: fork this repo
 
 
--Clone your own forked repo.
+-Step 2: clone the forked repo under your username
 
 
--Create a branch with your first name and work from there.
+-Step 3: create a branch with you first name
 
