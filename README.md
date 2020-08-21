@@ -8,5 +8,5 @@
 -Step 2: clone the forked repo under your username
 
 
--Step 3: create a branch with you first name
+-Step 3: create a branch with your first name
 
